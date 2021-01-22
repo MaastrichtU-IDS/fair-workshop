@@ -61,16 +61,16 @@ The **Slack workspace** will be  used to keep open for a further two weeks after
 
 ## Who will you learn with?
 
-* [Carlos Utrilla Guerrero]()
+* [Carlos Utrilla Guerrero](https://www.maastrichtuniversity.nl/p70069673)
 * [Maria Vivas Romero]()
-* [Ricardo Acevedo Miranda]()
-* [Erik Jansen]()
-* [Olav Paveen]()
+* [Ricardo Miranda Azevedo](https://www.maastrichtuniversity.nl/r.demirandaazevedo)
+* [Erik Jansen](https://www.maastrichtuniversity.nl/erik.jansen)
+* [Olav Palmen](https://www.maastrichtuniversity.nl/p70067301)
 
 ## Who develop the workshop?
-All bodies involved in the [Community of Data Driven Insights]():
-* [Institute of Data Science]()
-* [UM University Library]()
+All bodies involved in the [Community of Data Driven Insights](https://library.maastrichtuniversity.nl/research-support/rdm/#cddi):
+* [Institute of Data Science](https://www.maastrichtuniversity.nl/research/institute-data-science)
+* [UM University Library](https://library.maastrichtuniversity.nl/)
 * [Open Science Community]()
 
 <img src="img/mu-logo.jpg" style="zoom:73%;" />
