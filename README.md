@@ -68,7 +68,7 @@ The **Slack workspace** will be  used to keep open for a further two weeks after
 * [Olav Palmen](https://www.maastrichtuniversity.nl/p70067301)
 
 ## Who develop the workshop?
-All bodies involved in the [Community of Data Driven Insights](https://library.maastrichtuniversity.nl/research-support/rdm/#cddi):
+All bodies involved in the [Community for Data-Driven Insights](https://library.maastrichtuniversity.nl/research-support/rdm/#cddi):
 * [Institute of Data Science](https://www.maastrichtuniversity.nl/research/institute-data-science)
 * [UM University Library](https://library.maastrichtuniversity.nl/)
 * [Open Science Community]()
