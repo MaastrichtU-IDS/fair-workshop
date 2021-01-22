@@ -13,7 +13,7 @@ You’ll discover common research data management techniques, how to create FAIR
 
 * ✔️ Demonstrate the concept of FAIR and other outputs and its applications in research.
 * ✔️✔️ Articulate benefits, barriers and challenges in making data and other outputs FAIR. 
-* ✔️✔️✔️ Gain hands-on experience with techniques, services and tools to make your data or help other make their data FAIR.
+* ✔️✔️✔️ Gain hands-on experience with techniques, services and technologies to make your data or help other make their data FAIR.
 
 ## Who is the course for?
 
@@ -35,7 +35,7 @@ This course is aimed at individuals working with or expecting to work with data 
 |14:00 |Discussion Q&A FAIR experience| [15min]|
 |14:15 |S4: 10 TOP lessons for you best practices| [30min]|
 |14:45 |FAIR Quiz II| [15min]|
-|15:00 |S5: The future of FAIR mindset| [15min]|
+|15:00 |S5: The future of FAIR mindset and [Linked Open Data](https://lod-cloud.net/)| [15min]|
 |15:15 |S6: Wrap up, next steps and Workshop Evaluation| [15 min]|
 |15:30 |end||
 

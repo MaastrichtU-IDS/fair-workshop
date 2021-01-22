@@ -1,0 +1,29 @@
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix asf: <http://projects.apache.org/ns/asfext#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+
+<https://w3id.org/um/ids/projects#fair-workshop>
+  a doap:Project ;
+  doap:name "fair-workshop" ;
+  doap:description '''FAIR workshop for researchers at UM offer by IDS and CDDI''' ;
+  bibo:status "Active" ;
+
+  doap:programming-language "Python" ;
+  doap:license <https://github.com/MaastrichtU-IDS/fair-workshop/blob/main/LICENSE> ;
+  doap:bug-database <https://github.com/MaastrichtU-IDS/fair-workshop/issues> ;
+  doap:homepage <https://github.com/MaastrichtU-IDS/fair-workshop> ;
+  
+  
+  
+  
+  doap:category "Education" ;
+  doap:repository [
+    a doap:GitRepository ;
+    doap:location <https://github.com/MaastrichtU-IDS/fair-workshop> ;
+  ] ;
+  doap:maintainer [
+    a foaf:Person ;
+    foaf:name "Carlos Utrilla Guerrero" ;
+    foaf:mbox <mailto:c.utrillaguerrero@maastrichtuniversity.nl>
+  ] .
