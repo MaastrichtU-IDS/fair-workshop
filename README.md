@@ -5,7 +5,11 @@
 ## Overview
 > 📢 **Discover how data should be managed within your research community** 📢
 
-Digitalisation has had a considerable impact on the way we work in everyday life. What is more, this technological advancement has also resulted in a substantial increase of data being produced worldwide. Data transforms the way we live and work, so it’s becoming increasingly important that it’s stored and organized correctly. Therefore, the concept of FAIR data management is currently a topic of interest in the research environment, with universities being increasingly aware of the need to provide trainings on data driven methods for doctoral candidates and early-career researchers. This online workshop will provide a platform to address the importance of FAIR data management practices for early-career researchers and explore practicalities to make your research data FAIR.
+Digitalisation has had a considerable impact on the way we work in everyday life. What is more, this technological advancement has also resulted in a substantial increase of data being produced worldwide. Data transforms the way we live and work, so it’s becoming increasingly important that it’s stored and organized correctly. Therefore, the concept of FAIR data management is currently a topic of interest in the research environment, with universities being increasingly aware of the need to provide trainings on data driven methods for **doctoral candidates** and **early-career researchers**. This online workshop will provide a platform to address the importance of FAIR data management practices for early-career researchers and explore practicalities to make your research data FAIR.
+
+
+
+As research data becomes more openly available, data stewardship is a skill in high demand, both within and beyond academia.
 
 ## What will you achieve?
 
