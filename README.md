@@ -11,13 +11,14 @@ Digitalisation has had a considerable impact on the way we work in everyday life
 
 You’ll discover common research data management techniques, how to create FAIR data in practice, and how to develop your own research data management FAIR roadmap. By the end of this workshop you will be able to:
 
-✔️ Demonstrate the concept of FAIR and other outputs and its applications in research.
-✔️✔️ Articulate benefits, barriers and challenges in making data and other outputs FAIR. 
-✔️✔️✔️ Gain hands-on experience with techniques, services and tools to make your data or help other make their data FAIR.
+* ✔️ Demonstrate the concept of FAIR and other outputs and its applications in research.
+* ✔️✔️ Articulate benefits, barriers and challenges in making data and other outputs FAIR. 
+* ✔️✔️✔️ Gain hands-on experience with techniques, services and tools to make your data or help other make their data FAIR.
 
 ## Who is the course for?
 
 This course is aimed at individuals working with or expecting to work with data as researchers, librarians, data stewards, and all of those aiming or determine to make their data FAIR.
+
 *Prerequisites: Basic knowledge of RDM*
 
 ## Syllabus
