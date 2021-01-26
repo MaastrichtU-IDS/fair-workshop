@@ -3,10 +3,9 @@
 <img src="img/fair.jpg" style="zoom:73%;" />
 
 ## Overview
-> 📢 **Discover how data should be managed within your research community** 📢
+> 📢 Discover how data can be managed to facilitate discovery and reuse of data, for humans and machines 📢
 
-Digitalisation has had a considerable impact on the way we work in everyday life. What is more, this technological advancement has also resulted in a substantial increase of research data being produced worldwide. Research data transforms the way we live and work, so it’s becoming increasingly important that it’s stored and organized correctly. In paralell, the number of personas involved in a project are more diverse than ever - researchers, data stewards, librarians, data scientist and software developers - with all different digital skills.
-
+Digitalisation has had a considerable impact on the way we work in everyday life. What is more, this technological advancement has also resulted in a substantial increase of research data being produced worldwide. Research data transforms the way we live and work, so it’s becoming increasingly important that it’s stored and organized correctly. In parallel, the number of personas involved in a project are more diverse than ever - researchers, data stewards, librarians, data scientists and software developers - with all different digital skills.
 Therefore, the concept of FAIR data management is currently a topic of interest within and beyond academia, with universities being increasingly aware of the need to provide trainings on data-driven methods for **doctoral candidates** , **early-career researchers** and **data stewards**. This interactive, online workshop will provide a platform to address the importance of FAIR data management practices for them and explore practicalities to make your research data FAIR.
 
 ## What will you achieve?
