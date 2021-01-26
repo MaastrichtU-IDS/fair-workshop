@@ -39,9 +39,13 @@ This course is aimed at individuals working with or expecting to work with resea
 |15:15 |S6: Wrap up, next steps and Workshop Evaluation| [15 min]|
 |15:30 |end||
 
-## Material
+## Material and helpful resources
 
 [Labs and lectures](https://drive.google.com/drive/folders/1KtdONGCuax_fDEp-WH3OX5oANijU-ZQH?usp=sharing)
+
+[IDS Best Practices - FAIR](https://maastrichtu-ids.github.io/best-practices/docs/fair-principles)
+
+
 
 ## Feedback form
 
