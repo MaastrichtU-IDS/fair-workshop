@@ -26,7 +26,7 @@ This course is aimed at individuals working with or expecting to work with resea
 
 ## When is the course?
 
-🧭 **10th February 2021**🧭
+🧭**10th February 2021**🧭
 
 ## Syllabus
 
