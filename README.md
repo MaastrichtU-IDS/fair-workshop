@@ -40,7 +40,7 @@ This course is aimed at individuals working with or expecting to work with resea
 |12:00 |[Hands on Session](https://docs.google.com/document/d/1xOekDRW7tqTuaJ2EuNy_k1tdzYIotU6j_OJXdQbz-Mc/edit?usp=sharing) |[1hr] |
 |13:00 |Lunch break|[1hr]|
 |14:00 |Discussion Q&A FAIR experience| [15min]|
-|14:15 |S4: 10 TOP lessons for you best practices| [30min]|
+|14:15 |S4: Evaluating FAIRness| [30min]|
 |14:45 |FAIR Quiz II| [15min]|
 |15:00 |S5: The future of FAIR mindset and [Linked Open Data](https://lod-cloud.net/)| [15min]|
 |15:15 |S6: Wrap up, next steps and Workshop Evaluation| [15 min]|
