@@ -33,7 +33,7 @@ This course is aimed at individuals working with or expecting to work with resea
 |Time| Topic | Duration|
 |--|--|--|
 |10:00| [S1](https://docs.google.com/presentation/d/1KjB8yiS4WKfki832T4DbSbWr_X5JJXsDSDlZjsVoPkM/edit?usp=sharing): Welcome to the workshop and Introductions | [15min]|
-|10:15 |[S2](https://docs.google.com/presentation/d/1z9-7qZKSOBt1D4meWmFo_u2xShzuxs8gTFXbebSFy7c/edit?usp=sharing): The why, what and how of FAIR| [60min]|
+|10:15 |[S2](https://docs.google.com/presentation/d/1z9-7qZKSOBt1D4meWmFo_u2xShzuxs8gTFXbebSFy7c/edit?usp=sharing): The why, what and how of FAIR| [1hr] |
 |11:15 |[Join](https://docs.google.com/presentation/d/10rHaOirXx3INgm6E5NZEGtryeBvdDWkpr7jHqGKXjSg/edit?usp=sharing): FAIR Quiz I |[15min]|
 |11:30 |Coffee break| [15 min]|
 |11:45 |[S3](https://docs.google.com/presentation/d/1uEJQVsyYeQVOH7u06q7qy3fSqouqqXRFaK0ICp1aZBs/edit?usp=sharing): Introduction to FAIR Activities| [15min]|
