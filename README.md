@@ -42,7 +42,7 @@ This course is aimed at individuals working with or expecting to work with resea
 |14:00 |Discussion Q&A FAIR experience| [15min]|
 |14:15 |S4: Evaluating FAIRness| [30min]|
 |14:45 |FAIR Quiz II| [15min]|
-|15:00 |S5: The future of FAIR mindset and [Linked Open Data](https://lod-cloud.net/)| [15min]|
+|15:00 |[S5](https://docs.google.com/presentation/d/1nEx1VvDAgLmlVALfo6wbLW6aobQqFoqie8hhHZiJVjU/edit?usp=sharing): The road to the science of the future| [15min]|
 |15:15 |S6: Wrap up, next steps and Workshop Evaluation| [15 min]|
 |15:30 |end||
 
