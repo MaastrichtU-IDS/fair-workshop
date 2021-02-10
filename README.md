@@ -48,8 +48,6 @@ This course is aimed at individuals working with or expecting to work with resea
 
 ## Material and helpful resources
 
-[Labs and lectures](https://drive.google.com/drive/folders/1KtdONGCuax_fDEp-WH3OX5oANijU-ZQH?usp=sharing)
-
 [IDS Best Practices - FAIR](https://maastrichtu-ids.github.io/best-practices/docs/fair-principles)
 
 
