@@ -53,7 +53,7 @@ This course is aimed at individuals working with or expecting to work with resea
 * [Introduction](lectures/S1_Course_Overview.pdf)
 * [FAIR Concept](lectures/S2_ FAIR_Concept.pdf)
 * [Challenge 15 principles in 25 min](lectures/S3_15-principles-in-20 min.pdf)
-* [UM Repositories](lectures/S_4_Repositories_FAIR_EJ.pdf)
+* [UM Repositories](lectures/S-4-Fairness.pdf)
 * [FAIRness Evaluation](lectures/S5_FAIRness-Evaluation.pdf)
 * [Next Science](lectures/S6_next_Science.pdf)
 
