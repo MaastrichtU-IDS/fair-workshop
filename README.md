@@ -59,11 +59,11 @@ This course is aimed at individuals working with or expecting to work with resea
 
 ### Lab:
 
-[Hands on Session](https://docs.google.com/document/d/1xOekDRW7tqTuaJ2EuNy_k1tdzYIotU6j_OJXdQbz-Mc/edit?usp=sharing)
+* [Hands on Session](https://docs.google.com/document/d/1xOekDRW7tqTuaJ2EuNy_k1tdzYIotU6j_OJXdQbz-Mc/edit?usp=sharing)
 
 ### Others:
 
-[IDS Best Practices - FAIR](https://maastrichtu-ids.github.io/best-practices/docs/fair-principles)
+* [IDS Best Practices - FAIR](https://maastrichtu-ids.github.io/best-practices/docs/fair-principles)
 
 
 
