@@ -32,11 +32,11 @@ This course is aimed at individuals working with or expecting to work with resea
 
 |Time| Topic | Duration|
 |--|--|--|
-|10:00| [S1](lectures/S1_Course_Overview): Welcome to the workshop and Introductions | [15min]|
-|10:15 |[S2](https://docs.google.com/presentation/d/1z9-7qZKSOBt1D4meWmFo_u2xShzuxs8gTFXbebSFy7c/edit?usp=sharing): The why, what and how of FAIR| [1hr] |
+|10:00| S1: Welcome to the workshop and Introductions | [15min]|
+|10:15 |S2: The why, what and how of FAIR| [1hr] |
 |11:15 |[Join](https://docs.google.com/presentation/d/10rHaOirXx3INgm6E5NZEGtryeBvdDWkpr7jHqGKXjSg/edit?usp=sharing): FAIR Quiz I |[15min]|
 |11:30 |Coffee break| [15 min]|
-|11:45 |[S3](https://docs.google.com/presentation/d/1uEJQVsyYeQVOH7u06q7qy3fSqouqqXRFaK0ICp1aZBs/edit?usp=sharing): Introduction to FAIR Activities| [15min]|
+|11:45 |S3: Introduction to FAIR Activities| [15min]|
 |12:00 |[Hands on Session](https://docs.google.com/document/d/1xOekDRW7tqTuaJ2EuNy_k1tdzYIotU6j_OJXdQbz-Mc/edit?usp=sharing) |[1hr] |
 |13:00 |Lunch break|[1hr]|
 |14:00 |Discussion Q&A FAIR experience| [15min]|
@@ -47,6 +47,21 @@ This course is aimed at individuals working with or expecting to work with resea
 |15:30 |end||
 
 ## Material and helpful resources
+
+### Lectures:
+
+* [Introduction](lectures/S1_Course_Overview.pdf)
+* [FAIR Concept](lectures/S2_ FAIR_Concept.pdf)
+* [Challenge 15 principles in 25 min](lectures/S3_15-principles-in-20 min.pdf)
+* [UM Repositories](lectures/S_4_Repositories_FAIR_EJ.pdf)
+* [FAIRness Evaluation](lectures/S5_FAIRness-Evaluation.pdf)
+* [Next Science](lectures/S6_next_Science.pdf)
+
+### Lab:
+
+[Hands on Session](https://docs.google.com/document/d/1xOekDRW7tqTuaJ2EuNy_k1tdzYIotU6j_OJXdQbz-Mc/edit?usp=sharing)
+
+### Others:
 
 [IDS Best Practices - FAIR](https://maastrichtu-ids.github.io/best-practices/docs/fair-principles)
 
