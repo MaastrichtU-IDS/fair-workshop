@@ -27,7 +27,8 @@ This course is aimed at individuals working with or expecting to work with resea
 ## When is the course?
 
 **First round**: 10th February 2021
-🧭**Next round**: _Stay tuned_🧭
+
+🧭**Next round**: _Stay tuned_
 
 ## Syllabus
 
